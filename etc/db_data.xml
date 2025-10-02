@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/data.xsd">
+
+    <table name="customer_group">
+        <row>
+            <field name="customer_group_code">Mitarbeiter</field>
+            <field name="tax_class_id">3</field> <!-- Adjust tax_class_id if needed -->
+        </row>
+    </table>
+</data>
